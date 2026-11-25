@@ -83,3 +83,7 @@ UTP frente a fibra optica
 UTP: señal electrica, hasta 100m, economico, sensible a la interferencia
 Fibra: pulsos de luz, desde cientos de metros hasta decenas de kilometros, mas costosa, inmune a la interferencia
 
+
+
+
+
